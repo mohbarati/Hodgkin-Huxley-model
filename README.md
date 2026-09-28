@@ -12,7 +12,8 @@
  **4. Random Noise Current:**
  
  
- And finally, the **f-I curve** to indicate the Type II behaviour of the model.
+ Finally, the **f-I curve** indicates the model's Type II behaviour.
+ For the frequency gain, I have added another code, which is numba empowered: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mohbarati/Hodgkin-Huxley-model/blob/main/F_I_capacitance.ipynb)
 
 Future Plans:
 * More realistic drive inputs
